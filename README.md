@@ -41,9 +41,9 @@ Recommendations for marketing:
 
 Recommendations for sales growth:
 1. Prioritize budget spending on the AKL-KUL route for round-trip segment via online channels to leverage its exceptional lead volume.
-2.Launch targeted mobile app promotions for DMK-KIX and DPS-ICN routes to close the gap between internet and mobile acquisition.
-3.Introduce loyalty incentives for lower volume routes like ICN-SIN to stimulate both web and mobile leads
+2. Launch targeted mobile app promotions for DMK-KIX and DPS-ICN routes to close the gap between internet and mobile acquisition.
+3. Introduce loyalty incentives for lower volume routes like ICN-SIN to stimulate both web and mobile leads
 
 Recommendations for customer spendings:
 1. Enhance offerings for long and medium flights -such as improved meal options and seat upgrades.
-2.Simplify services for short flights to reduce costs while meeting customer expectations.
+2. Simplify services for short flights to reduce costs while meeting customer expectations.
