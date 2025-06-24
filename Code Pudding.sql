@@ -12,7 +12,7 @@ SELECT
 FROM
     airline_booking.customer_booking;
 
-# Categorize Flight Duration into Length Types (Short, Medium, Long)
+#Categorize Flight Duration into Length Types (Short, Medium, Long)
 SELECT 
     *,
     CASE
@@ -37,6 +37,7 @@ SET
         ELSE 'long'
     END;
 SET SQL_SAFE_UPDATES = 1;
+
 #Average In-Flight Meal Requests and Preferred Seat Requests by Flight Length (Sorted Ascending)
 SELECT 
     flight_length,
