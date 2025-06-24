@@ -4,7 +4,7 @@
 ![image](https://github.com/user-attachments/assets/12d408d3-989b-42aa-9ff6-7c789bd39945)
 
 ## 📌 Purpose
-The purpose of this dataset is to analyze airline bookings and identify different factors associated with revenue generation.
+This project focuses on analyzing airline booking data to uncover key marketing drivers that influence revenue. The purpose was to explore how different factors — such as flight type, booking behavior, geographic origin, household demographics, and upsell preferences — impact sales performance.
 
 ## 🎯 Key Objectives
 1. What marketing factors attribute to highest sales?
