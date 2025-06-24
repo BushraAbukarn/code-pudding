@@ -13,8 +13,8 @@ The purpose of this dataset is to analyze airline bookings and identify differen
 
 ## 👥 Team Members
 - Bushra Abukarn
-- Brenya 
-- Perak
+- Brenya Griffin
+- Perak Shah
 ## 🛠️ Tools & Technologies
 - MySQL for querying and data cleaning
 - Tableau for dashboard creation and visualization
