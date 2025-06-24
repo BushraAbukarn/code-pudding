@@ -7,9 +7,9 @@
 The purpose of this dataset is to analyze airline bookings and identify different factors associated with revenue generation.
 
 ## 🎯 Key Objectives
-1. **Identify marketing factors** that attribute to the highest sales.
-2. **Analyze routes** that generated the most purchase leads.
-3. **Evaluate how flight durations** affect passenger purchase spendings, such as extra services.
+1. What marketing factors attribute to highest sales?
+2. What routes generated the most purchase leads?
+3. How flight durations affect purchase spendings?
 
 ## 👥 Team Members
 - Bushra Abukarn
@@ -33,17 +33,17 @@ The purpose of this dataset is to analyze airline bookings and identify differen
 
 ## Recommendations
 
-Recommendations for marketing:
+**Recommendations for marketing**:
 1. Launch targeted bundled upgrade promotions for extra baggage, in-flight meals and preferred seating options for Australia and Malaysia since they contribute to the highest upgrades.
 2. Consider mobile app discounts to draw more customers for bookings via mobile app since revenue is compared to internet sales channel
 3.Monday and Sunday are the highest booking days therefore schedule email campaigns, social media promotions, and retargeting ads to launch on sundays and peak on mondays for customers to plan their trips in advance.
 4. Single customers and couples contribute to the highest sales therefore design marketing campaigns specifically for these groups (solo travel deals, romantic getaways) plan for round trip flight prefence since this is the preferred option
 
-Recommendations for sales growth:
+**Recommendations for sales growth**:
 1. Prioritize budget spending on the AKL-KUL route for round-trip segment via online channels to leverage its exceptional lead volume.
 2. Launch targeted mobile app promotions for DMK-KIX and DPS-ICN routes to close the gap between internet and mobile acquisition.
 3. Introduce loyalty incentives for lower volume routes like ICN-SIN to stimulate both web and mobile leads
 
-Recommendations for customer spendings:
+**Recommendations for customer spendings**:
 1. Enhance offerings for long and medium flights -such as improved meal options and seat upgrades.
 2. Simplify services for short flights to reduce costs while meeting customer expectations.
