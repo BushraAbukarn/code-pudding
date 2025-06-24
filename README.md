@@ -34,7 +34,7 @@ To maximize profitability, airlines should prioritize digital marketing in South
 
 ![image](https://github.com/user-attachments/assets/996b031b-5a3c-4e8a-994a-06dd968950e1)
 
-![image](https://github.com/user-attachments/assets/2a425d1f-fa6a-4726-9184-51c680833393)
+![image](https://github.com/user-attachments/assets/bc6c8c8a-ba45-4255-8b95-8a68b97ead3d)
 
 ## Recommendations
 
