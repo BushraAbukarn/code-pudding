@@ -6,6 +6,11 @@
 ## 📌 Purpose
 This project focuses on analyzing airline booking data to uncover key marketing drivers that influence revenue. The purpose was to explore how different factors — such as flight type, booking behavior, geographic origin, household demographics, and upsell preferences — impact sales performance.
 
+## 📄 Project Brief
+This analysis provides valuable insights into airline booking trends and customer behavior, revealing critical levers for revenue optimization. Roundtrip bookings dominate in both volume and revenue, making them a strategic focus for promotions and upsell opportunities. Monday and Sunday emerge as the most active booking days, suggesting the best timing for targeted campaigns.
+The Asia-Pacific region—including Australia, Malaysia, South Korea, Japan, and China—drives the majority of sales, confirming it as the most lucrative market. These countries also show high demand for upsell services. Additionally, single travelers and couples make up the largest household segments booking online, presenting clear profiles for segmentation.
+To maximize profitability, airlines should prioritize digital marketing in South and East Asia, tailor service offerings by trip type and flight length, and enhance booking experiences through the most-used channels.
+
 ## 🎯 Key Objectives
 1. What marketing factors attribute to highest sales?
 2. What routes generated the most purchase leads?
@@ -14,7 +19,7 @@ This project focuses on analyzing airline booking data to uncover key marketing 
 ## 👥 Team Members
 - Bushra Abukarn
 - Brenya Griffin
-- Perak Shah
+- Prerak Shah
 ## 🛠️ Tools & Technologies
 - MySQL for querying and data cleaning
 - Tableau for dashboard creation and visualization
