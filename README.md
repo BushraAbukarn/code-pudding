@@ -33,17 +33,17 @@ The purpose of this dataset is to analyze customer behavior related to booking p
 
 **Recommendations for marketing:**
 1. Launch targeted bundled flight upgrade promotions such as in-flight meals/preferred seating for Australia and Malaysia since they contribute to the highest upgrades.
-2.Monday and Sunday are the highest booking days therefore schedule email campaigns, social media promotions, and retargeting ads to launch on Sundays and peak on Mondays for customers to plan their advance trips and maximize promotional reach
+2. Monday and Sunday are the highest booking days therefore schedule email campaigns, social media promotions, and retargeting ads to launch on Sundays and peak on Mondays for customers to plan their advance trips and maximize promotional reach
 3. Single customers and couples contribute the most to advanced bookings therefore design marketing campaigns specifically for these groups (solo travel deals, romantic getaways) since this is the highest demand
---Couples prefer to fly on Mondays and Wednesdays and preferred flight times are 8AM, 9AM, 12PM
---Singles prefer to fly on Mondays and Tuesdays and preferred flight times are 7AM, 8AM, 12PM
+ --Couples prefer to fly on Mondays and Wednesdays and preferred flight times are 8AM, 9AM, 12PM
+ --Singles prefer to fly on Mondays and Tuesdays and preferred flight times are 7AM, 8AM, 12PM
 
 **Recommendations for flight route focused growth:**
-1.Double-down on digital campaigns for AKL-KUL and DMK-KIX, using dynamic web offers and retargeting to squeeze even more value from the already strong Internet channel.
-2.Refresh the mobile booking flow with faster checkout and push-only promos, aiming to lift mobile's share on high-volume routes and close the gap on lower-performing ones.
+1. Double-down on digital campaigns for AKL-KUL and DMK-KIX, using dynamic web offers and retargeting to squeeze even more value from the already strong Internet channel.
+2. Refresh the mobile booking flow with faster checkout and push-only promos, aiming to lift mobile's share on high-volume routes and close the gap on lower-performing ones.
 3. Run route-specific incentives for ICN-SIN, MEL-SGN and PEN-TPE to spark interest and nudge these mid-tier routes closer to the leaders.
 
 **Recommendations for customer spendings:**
 1. Enhance offerings for long and medium flights-such as improved meal options and seat upgrades.
-2.Simplify services for short flights to reduce costs while meeting customer expectations.
+2. Simplify services for short flights to reduce costs while meeting customer expectations.
 
