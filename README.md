@@ -4,17 +4,12 @@
 ![image](https://github.com/user-attachments/assets/12d408d3-989b-42aa-9ff6-7c789bd39945)
 
 ## 📌 Purpose
-This project focuses on analyzing airline booking data to uncover key marketing drivers that influence revenue. The purpose was to explore how different factors — such as flight type, booking behavior, geographic origin, household demographics, and upsell preferences — impact sales performance.
-
-## 📄 Project Brief
-This analysis provides valuable insights into airline booking trends and customer behavior, revealing critical levers for revenue optimization. Roundtrip bookings dominate in both volume and revenue, making them a strategic focus for promotions and upsell opportunities. Monday and Sunday emerge as the most active booking days, suggesting the best timing for targeted campaigns.
-The Asia-Pacific region—including Australia, Malaysia, South Korea, Japan, and China—drives the majority of sales, confirming it as the most lucrative market. These countries also show high demand for upsell services. Additionally, single travelers and couples make up the largest household segments booking online, presenting clear profiles for segmentation.
-To maximize profitability, airlines should prioritize digital marketing in South and East Asia, tailor service offerings by trip type and flight length, and enhance booking experiences through the most-used channels.
+The purpose of this dataset is to analyze customer behavior related to booking patterns, identify trends that can support marketing strategies, optimize pricing models, and enhance demand forecasting to increase revenue.
 
 ## 🎯 Key Objectives
-1. What marketing factors attribute to highest sales?
-2. What routes generated the most purchase leads?
-3. How flight durations affect purchase spendings?
+1. What marketing factors can attribute to customer preferences?
+2. What routes generated the most demand?
+3. How do flight durations affect purchase spending?
 
 ## 👥 Team Members
 - Bushra Abukarn
@@ -26,30 +21,29 @@ To maximize profitability, airlines should prioritize digital marketing in South
 
 
 ## Dashboards 
-![image](https://github.com/user-attachments/assets/7b0c24c5-5959-4631-b4cf-18eba8ac0d78)
-
-![image](https://github.com/user-attachments/assets/0c5d93ca-b40e-4163-8fee-b13cf907ef4c)
-
-![image](https://github.com/user-attachments/assets/803be184-204b-485d-9391-6e934438acb8)
-
-![image](https://github.com/user-attachments/assets/996b031b-5a3c-4e8a-994a-06dd968950e1)
-
+![image](https://github.com/user-attachments/assets/97efc198-46ae-4c16-8d6f-96e4f0c23f1e)
+![image](https://github.com/user-attachments/assets/c4edd438-611d-4d58-9683-7ebd85fec45e)
+![image](https://github.com/user-attachments/assets/5ab83d06-48ed-4f94-ad95-932b03911aeb)
+![image](https://github.com/user-attachments/assets/d4efb6a5-6c96-4a17-9ee6-7fbea839b359)
+![image](https://github.com/user-attachments/assets/d44a7ea5-866b-4dee-b031-11ae9be7315b)
 ![image](https://github.com/user-attachments/assets/42858cb8-adc5-405b-ba5f-b5c719801acb)
 
 
 ## Recommendations
 
-**Recommendations for marketing**:
-1. Launch targeted bundled upgrade promotions for extra baggage, in-flight meals and preferred seating options for Australia and Malaysia since they contribute to the highest upgrades.
-2. Consider mobile app discounts to draw more customers for bookings via mobile app since revenue is compared to internet sales channel
-3.Monday and Sunday are the highest booking days therefore schedule email campaigns, social media promotions, and retargeting ads to launch on sundays and peak on mondays for customers to plan their trips in advance.
-4. Single customers and couples contribute to the highest sales therefore design marketing campaigns specifically for these groups (solo travel deals, romantic getaways) plan for round trip flight prefence since this is the preferred option
+**Recommendations for marketing:**
+1. Launch targeted bundled flight upgrade promotions such as in-flight meals/preferred seating for Australia and Malaysia since they contribute to the highest upgrades.
+2.Monday and Sunday are the highest booking days therefore schedule email campaigns, social media promotions, and retargeting ads to launch on Sundays and peak on Mondays for customers to plan their advance trips and maximize promotional reach
+3. Single customers and couples contribute the most to advanced bookings therefore design marketing campaigns specifically for these groups (solo travel deals, romantic getaways) since this is the highest demand
+--Couples prefer to fly on Mondays and Wednesdays and preferred flight times are 8AM, 9AM, 12PM
+--Singles prefer to fly on Mondays and Tuesdays and preferred flight times are 7AM, 8AM, 12PM
 
-**Recommendations for sales growth**:
-1. Prioritize budget spending on the AKL-KUL route for round-trip segment via online channels to leverage its exceptional lead volume.
-2. Launch targeted mobile app promotions for DMK-KIX and DPS-ICN routes to close the gap between internet and mobile acquisition.
-3. Introduce loyalty incentives for lower volume routes like ICN-SIN to stimulate both web and mobile leads
+**Recommendations for flight route focused growth:**
+1.Double-down on digital campaigns for AKL-KUL and DMK-KIX, using dynamic web offers and retargeting to squeeze even more value from the already strong Internet channel.
+2.Refresh the mobile booking flow with faster checkout and push-only promos, aiming to lift mobile's share on high-volume routes and close the gap on lower-performing ones.
+3. Run route-specific incentives for ICN-SIN, MEL-SGN and PEN-TPE to spark interest and nudge these mid-tier routes closer to the leaders.
 
-**Recommendations for customer spendings**:
-1. Enhance offerings for long and medium flights -such as improved meal options and seat upgrades.
-2. Simplify services for short flights to reduce costs while meeting customer expectations.
+**Recommendations for customer spendings:**
+1. Enhance offerings for long and medium flights-such as improved meal options and seat upgrades.
+2.Simplify services for short flights to reduce costs while meeting customer expectations.
+
